@@ -7,7 +7,7 @@ Aplicação desenvolvida como parte da Formação em Java do projeto Oracle Next
 Projeto entregue.
 
 <h3>:small_blue_diamond: Funcionalidades </h3>
-Projeto consome a API <a href="[www.exchangerate-api.com/docs/overview](https://gutendex.com/)">Gutendex</a> e armazena os dados de Livros e Autores buscado com Persistência em repositório PostgreSQL.
+Projeto consome a API <a href="[www.exchangerate-api.com/docs/overview](https://gutendex.com/)">Gutendex</a> e armazena os dados de Livros e Autores buscados com Persistência em repositório PostgreSQL.
 
 <h3>:small_blue_diamond: Tecnologias utilizadas </h3>
 Java 17
